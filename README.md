@@ -112,5 +112,4 @@ Email: kashyapkakadiya149@gmail.com
 ## 📜 License
 
 This project is developed for academic and internship purposes.
-### Step 1: Clone Repository
 
