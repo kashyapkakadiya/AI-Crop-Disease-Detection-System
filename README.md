@@ -89,20 +89,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📂 Project Structure
-
-AI-Crop-Disease-Detection-System/
-   dataset/
-   templates/
-      index.html
-   app.py
-   train_model.py
-   crop_disease_model.h5
-   class_names.json
-   accuracy_graph.png
-
----
-
 ## 🎯 Future Improvements
 
 - Add more crop varieties
